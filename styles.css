@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Resume</title>
+    <style>
+    body {
+      background-color: purple;
+    }
+    
+    h1 {
+      color: lightpink;
+      text-align: center;
+    }
+    
+    p {
+      color: yellow;
+      font-family: verdana;
+      font-size: 20px;
+    }
+    </style>
+</head>
+
+<body>
+<div style="background-color:purple">
+  <h3>Resume</h3>
+  <p>Adrian Addae </p> 
+  <p>1400 Better Lane Court Laurel MD, 20743</p>
+  <p>301-456-0002</p>
+  <p>addatruth15@me.com</p>
+<h2>My college joy in one image</h2>
+<img src="https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2011/12/SuccessYoungMaleCollegeSchool620480.jpg" 
+alt="College Kid " width="300" height="285">
+  <p>Seeking an internship position to explore career options in the IT Field.
+  A hard-working and self-motivated undergraduate student studying for 
+  a Bachelor of Science in INST,I am good with many Information sciences topics
+  including supply and demand, coding,the many types of servers and database connections. 
+  </p>
+
+</div>
+
+
+</body>
+</html>
